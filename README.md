@@ -1,5 +1,5 @@
 # dataflowr-PlutonAI
-Practicals of the Deep Learning course provided by Marc Lelarge from Pluton AI :
+Practicals of the Deep Learning course provided by [Marc Lelarge](https://github.com/mlelarge) from [Pluton AI](https://pluton.ai) :
 - Machine learning pipeline and course overview
 - PyTorch tensors and automatic differentiation
 - Classification with deep learning
